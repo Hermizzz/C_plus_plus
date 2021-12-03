@@ -52,7 +52,7 @@ int main()
     int visi_j2, visi_p2, visi_c2;
     visi_j2 = j2 + (p2 / 3) + (c2 / 36);
     visi_p2 = (j2 * 3) + p2 + (c2 / 12);
-    visi_c1 = (j2 * 36) + (p2 * 3) + c2;
+    visi_c2 = (j2 * 36) + (p2 * 3) + c2;
 
     sj = visi_j1 + visi_j2;
     sp = visi_p1 + visi_p2;
