@@ -57,6 +57,6 @@ int main()
     dataFile.close();
     resultsFile.close();
 
-    cout << "Program has ended, please check 'results.txt' file" << endl;
+    cout << "Program has ended, please check 'results_1.txt' file" << endl;
     return 0;
 }
