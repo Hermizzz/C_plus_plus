@@ -16,7 +16,7 @@ int main()
         return 1; // Return an error code
     }
 
-    // Opening 'results.txt' file:
+    // Opening 'results_1.txt' file:
     ofstream resultsFile("results_1.txt");
 
     // Check if the results file is open:
